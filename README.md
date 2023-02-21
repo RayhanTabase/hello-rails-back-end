@@ -26,9 +26,9 @@
 
 # 📖 [Hello Rails React ] <a name="about-project"></a>
 
-> In this application I explore setting up a rails application with react inclusive and trying to use react libraries such as redux and react-router with a rails api application.
+> In this application I explore a rails api client whose data would be consumed by a seperate react front end clinet.
 
-**[hello_rails_react]** is an application to help explore how to connect react and use it to its maximum with rails application..
+**[hello_rails_backend]** is an application to help explore how to connect react and use it to its maximum with rails application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,17 +94,16 @@ Clone this repository to your desired folder:
 
 To run and view this application, you will first have to clone a local version of this repository using:
 
-`git clone https://github.com/RayhanTabase/hello-rails-react.git`
+`git clone https://github.com/RayhanTabase/hello-rails-back-end.git`
 
 After that navigate to the newly created folder:
 
-`cd hello-rails-react`
+`cd hello-rails-back-end`
 
 ### Install
 
 Install this project with:
 
- `yarn install`
  `bundle install`
 
 ### Usage
@@ -117,11 +116,8 @@ Configure PostgreSQL database in your project in the project directory:
 
 Start a local server running the command:
 
-`./bin/dev`
+`rails s`
 
-On your local host, view the react component Greeting which generates a random message:
-
-`http://127.0.0.1:3000/greetings`
 
 ### Run tests
 
@@ -169,9 +165,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[add_css_styling]**
-- [ ] **[show_all_messages_in_react]**
-- [ ] **[add_messages_in_react]**
+- [ ] **[authentication]**
+- [ ] **[authorizations]**
+- [ ] **[sessions]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
