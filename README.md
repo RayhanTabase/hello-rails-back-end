@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails React ] <a name="about-project"></a>
+# 📖 [Hello Rails Back End ] <a name="about-project"></a>
 
 > In this application I explore a rails api client whose data would be consumed by a seperate react front end clinet.
 
@@ -78,6 +78,8 @@
 
 > Describe how a new developer could make use of your project.
 
+You can find the React Frontend client at [React_client](https://github.com/RayhanTabase/hello-react-front-end)
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -89,6 +91,8 @@ In order to run this project you need:
 - Have rails installed
 
 ### Setup
+
+You can find the React Frontend client at [React_client](https://github.com/RayhanTabase/hello-react-front-end)
 
 Clone this repository to your desired folder:
 
@@ -109,6 +113,8 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
+
+You can find the React Frontend client at [React_client](https://github.com/RayhanTabase/hello-react-front-end)
 
 Configure PostgreSQL database in your project in the project directory:
 
