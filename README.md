@@ -107,7 +107,6 @@ After that navigate to the newly created folder:
 ### Install
 
 Install this project with:
-
  `bundle install`
 
 ### Usage
